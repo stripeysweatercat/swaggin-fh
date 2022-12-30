@@ -163,3 +163,5 @@ cython_debug/
 /test
 .toml
 test.py
+Pipfile
+Pipfile.lock

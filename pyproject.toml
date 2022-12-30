@@ -1,22 +1,6 @@
 [build-system]
-requires = ["hatchling", "byteconvert"]
-build-backend = "hatchling.build"
-
-[project]
-name = "swaggin_fh"
-version = "0.0.1"
-authors = [
-    { name="perigonsr", email="stripeysweatercat@gmail.com" },
+requires = [
+    "setuptools>=42",
+    "wheel",
 ]
-description = "A package to read and write to .swaggin files"
-readme = "README.md"
-requires-python = ">=3.7"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
-
-[project.urls]
-"Homepage" = "https://github.com/stripeysweatercat/swaggin-fh"
-"Bug Tracking" = "https://github.com/stripeysweatercat/swaggin-fh/issues"
+build-backend = "setuptools.build_meta"
