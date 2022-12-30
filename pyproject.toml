@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "N/A"
-"Bug Tracking" = "N/A"
+"Homepage" = "https://github.com/stripeysweatercat/swaggin-fh"
+"Bug Tracking" = "https://github.com/stripeysweatercat/swaggin-fh/issues"
