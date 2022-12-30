@@ -5,7 +5,7 @@ a very shotty python library for handling .swaggin files. It should also be note
 ## Installation
 With [PyPI](https://pypi.org/):
 ```bash
-pip install swaggin-fh
+pip install swagginfh
 ```
 Or from GitHub
 ```bash

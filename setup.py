@@ -13,13 +13,13 @@ except Exception:
 setup(
     
 # Project name: 
-name='swaggin-fh',
+name='swagginfh',
 
 # Packages to include in the distribution: 
 packages=find_packages(','),
 
 # Project version number:
-version='0.0.4',
+version='0.0.2',
 
 # List a license for the project, eg. MIT License
 license='MIT',
